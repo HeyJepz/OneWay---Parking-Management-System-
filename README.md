@@ -1,4 +1,5 @@
-OneWay---Parking-Management-System
+OneWay Parking-Management-System
+
 A Mini Capstone program created in my 2nd year 1st term of college.
 
 To open, Install SqlLocalDB.MSI on your PC.
